@@ -1,0 +1,199 @@
+<html>
+    <head>
+         <link rel="stylesheet" type="text/css" href="/css/powerpoint.css">
+         <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css">
+         <link rel="stylesheet" type="text/css" href="/css/owl.theme.css">
+         <link rel="stylesheet" type="text/css" href="/css/owl.transitions.css">
+         <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+        <iframe id = "link" src="https://wikipedia.org"></iframe>
+        <div id="sync1" class="owl-carousel owl-theme">
+
+         <div id = "slide1" class="item">
+           <h1>Introducing the MYO Presentation Aid</h1>
+
+           <p>Better capabilties than the current MYO presentation tools out there. An enhanced way to deliver your presentation. An exploration into new UX possiblities.</p>
+
+           <p>We found the current MYO presentation process a bsit cumbersome. Our Presentation Aid provides you with: </p>
+
+           <ul>
+              <li>Redesigned commands that are more intuitive to use</li>
+              <li>Enhanced functionality - Clicking on links, zooming out to slide thumbnails</li>
+              <li>Slide sharing capabilities</li>
+              <li>A seamless presentation experience</li>
+            </ul>
+
+        </div>
+          <div id = "slide2" class="item">
+            <h1>The Current Setup</h1>
+
+            <p>Here's how presenting with MYO currently works:</p>
+
+            <table style="width:100%">
+              <tr>
+                <td><img src="/img/doubletap1.svg"></td>
+                <td><img src="/img/wave1.svg"></td> 
+                <td><img src="/img/pointer1.svg"></td>
+                <td><img src="/img/zoom1.svg"></td>
+              </tr>
+              <tr>
+                <td>Move Forward</td>
+                <td>Move Backward</td> 
+                <td>Pointer</td>
+                <td>Zoom</td>
+              </tr>
+            </table>
+
+          </div>
+          <div id="slide3" class="item whiteslide">
+
+            <h1>Our Gestures</h1>
+
+            <p>Here's how redefined the gestures:</p>
+
+            <table style="width:100%" class"gestures">
+              <tr>
+                <td><img src="/img/wave-left.svg"></td>
+                <td><img src="/img/wave-right.svg"></td> 
+                <td><img src="/img/spread-fingers.svg"></td>
+                <td><img src="/img/make-fist.svg"></td>
+                <td><img src="/img/double-tap.svg"></td>
+              </tr>
+              <tr>
+                <td>Previous Slide</td>
+                <td>Next Slide</td> 
+                <td>Zoom out to thumbnails</td>
+                <td>Zoom back in</td>
+                <td>Click on link</td>
+              </tr>
+            </table>
+
+          </div>
+
+        <div id = "slide4" class="item">
+            <h1>An Improved User Experience</h1>
+
+            <p>Above all, our gestures, based on the Nielson's 10 Usability Heuristics, provide an enhanced user experience: </p>
+
+           <ul>
+              <li>Waving right for the next slide and waving left for the previous slide provides for better internal consistency than a double tap with a left wave</li>
+              <li>Opening the fingers to zoom out to thumbnail view and closing the fist to bring it back into full slideshow view provides for external consistency with Apple's multitouch</li>
+              <li>With a more versatile design, our users are granted more flexiblity and freedom</li>
+              <li>Slidesharing provides for a new level of engagement with the content </li>
+            </ul>
+
+          </div>
+
+        <div id = "slide5" class="item">
+            <h1>Thanks!</h1>
+
+            Sample <a href="https://wikipedia.org">Wikipedia</a> page <br/><br/>
+
+            Created by <a href="https://goo.gl/6jP9ip">Connor Smith</a>, <a href="https://goo.gl/qLtIqz">Johnson Dinh</a>, <a href="https://goo.gl/AE917e">Elijah Wigmore</a>, and <a href="https://goo.gl/jhkHq1">Marissa Zhang</a>
+
+          </div>
+
+         
+        </div>
+
+        <div id="sync2" class="owl-carousel owl-theme">
+
+
+         <div id = "slide1" class="item">
+           <h1>Introducing the MYO Presentation Aid</h1>
+
+           <p>Better capabilties than the current MYO presentation tools out there. An enhanced way to deliver your presentation. An exploration into new UX possiblities.</p>
+
+           <p>We found the current MYO presentation process a bsit cumbersome. Our Presentation Aid provides you with: </p>
+
+           <ul>
+              <li>Redesigned commands that are more intuitive to use</li>
+              <li>Enhanced functionality - Clicking on links, zooming out to slide thumbnails</li>
+              <li>Slide sharing capabilities</li>
+              <li>A seamless presentation experience</li>
+            </ul>
+
+        </div>
+          <div id = "slide2" class="item">
+            <h1>The Current Setup</h1>
+
+            <p>Here's how presenting with MYO currently works:</p>
+
+            <table style="width:100%">
+              <tr>
+                <td><img src="/img/doubletap1.svg"></td>
+                <td><img src="/img/wave1.svg"></td> 
+                <td><img src="/img/pointer1.svg"></td>
+                <td><img src="/img/zoom1.svg"></td>
+              </tr>
+              <tr>
+                <td>Move Forward</td>
+                <td>Move Backward</td> 
+                <td>Pointer</td>
+                <td>Zoom</td>
+              </tr>
+            </table>
+
+          </div>
+          <div id="slide3" class="item whiteslide">
+
+            <h1>Our Gestures</h1>
+
+            <p>Here's how redefined the gestures:</p>
+
+            <table style="width:100%" class"gestures">
+              <tr>
+                <td><img src="/img/wave-left.svg"></td>
+                <td><img src="/img/wave-right.svg"></td> 
+                <td><img src="/img/spread-fingers.svg"></td>
+                <td><img src="/img/make-fist.svg"></td>
+                <td><img src="/img/double-tap.svg"></td>
+              </tr>
+              <tr>
+                <td>Previous Slide</td>
+                <td>Next Slide</td> 
+                <td>Zoom out to thumbnails</td>
+                <td>Zoom back in</td>
+                <td>Click on link</td>
+              </tr>
+            </table>
+
+          </div>
+
+        <div id = "slide4" class="item">
+            <h1>An Improved User Experience</h1>
+
+            <p>Above all, our gestures, based on the Nielson's 10 Usability Heuristics, provide an enhanced user experience: </p>
+
+           <ul>
+              <li>Waving right for the next slide and waving left for the previous slide provides for better internal consistency than a double tap with a left wave</li>
+              <li>Opening the fingers to zoom out to thumbnail view and closing the fist to bring it back into full slideshow view provides for external consistency with Apple's multitouch</li>
+              <li>With a more versatile design, our users are granted more flexiblity and freedom</li>
+              <li>Slidesharing provides for a new level of engagement with the content </li>
+            </ul>
+
+          </div>
+
+        <div id = "slide5" class="item">
+            <h1>Thanks!</h1>
+
+            <p>Sample <a href="https://github.com/connorjsmith/MyoPowerPoint">Wikipedia</a> page!! <br /> <br />
+
+            Created by <a href="https://goo.gl/6jP9ip">Connor Smith</a>, <a href="https://goo.gl/qLtIqz">Johnson Dinh</a>, <a href="https://goo.gl/AE917e">Elijah Wigmore</a>, and <a href="https://goo.gl/jhkHq1">Marissa Zhang</a></p>
+
+          </div>
+         
+        </div>
+
+
+
+
+        <script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+        <script src="https://cdn.socket.io/socket.io-1.4.3.js"></script>
+        <script src="/js/myo.js"></script>
+        <script src="/js/owl.carousel.js"></script>
+        <script src="/js/powerpoint.js"></script>
+        <script src="/js/temp.js"></script>
+    </body>
+</html>

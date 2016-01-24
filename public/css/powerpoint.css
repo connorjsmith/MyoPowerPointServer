@@ -1,0 +1,174 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #eee;
+    overflow: hidden;
+}
+
+.item {
+    display: block;
+    height: 100vh;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 100vw;
+}
+
+#title {
+    font-size: 4em;
+    margin-left: 40%;
+    margin-top: -15%;
+
+}
+
+#myopic {
+    margin-left:5%;
+    margin-top:5%;
+}
+
+#enter {
+    margin-left:50%;
+    color: white;
+    font-family: Lato, Helvetica;
+    font-size: 2.5em;
+    font-weight: bold;
+
+}
+
+h1 {
+	color: white;
+	font-family: Lato, Helvetica;
+	font-size: 3em;
+	font-weight: bold;
+}
+
+p{
+	text-align: left;
+	color: white;
+	font-family: Lato, Helvetica;
+	font-size: 2em;
+	margin: 5%;
+}
+
+a {
+	color: white;
+}
+
+.whiteslide h1, .whiteslide p, .whiteslide td{
+	color: #3498db;
+}
+
+.whiteslide td{
+	padding: 25px;
+}
+
+
+
+
+td {
+	text-align:center;
+	color: white;
+	font-family: Lato, Helvetica;
+}
+
+ul {
+	text-align: left;
+	color: white;
+	font-family: Lato, Helvetica;
+	font-size: 2em;
+	margin: 5%;
+}
+
+.focused-item {
+    color: red;
+}
+#link {
+    position: fixed;
+    top: 5%;
+    left: 5%;
+    height: 90%;
+    width: 90%;
+    display: none;
+    z-index: 100;
+}
+
+#home {
+    background-color: #FF6766;
+}
+
+#slide1 {
+	background-color: #FF6766;
+}
+
+#slide2 {
+	background-color: #60646D;
+}
+
+#slide3 {
+	background-color: #FFFFF7;
+
+}
+
+#slide4 {
+	background-color: #83D6DE;
+}
+
+#slide5 {
+	background-color: #97CE68;
+
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#sync1 {
+	height: 100vh;
+    width: 100vw;
+}
+
+#sync2 {
+	position: absolute;
+	top: 25%;
+	transform: translateY(-50%);
+}
+
+#sync2 .item > * {
+    box-shadow: 5px 5px 3px #888888;
+}
+
+#sync1, #sync2 {
+    transition: transform 300ms ease, opacity 300ms ease;
+}
+
+#sync1 .item{
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+    display: block;
+    height: 100vh;
+    width: 100vw;
+}
+
+#sync2 .item{
+    padding: 10px 0px;
+    margin: 5px;
+    color: #FFF;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+    height: inherit;
+    width: inherit;
+
+
+}
+#sync2 .item h1{
+  font-size: 18px;
+}
+#sync2 .synced .item{
+  background: #0c83e7;
+}

@@ -1,0 +1,4 @@
+var socket = io();
+socket.on("response", function(data) {
+    console.log("recieved response!!");
+});
